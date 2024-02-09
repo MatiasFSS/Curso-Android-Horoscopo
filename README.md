@@ -1,0 +1,1 @@
+Desarrollo de aplicación de horoscopo, de un curso de android studio con kotlin (youtube)

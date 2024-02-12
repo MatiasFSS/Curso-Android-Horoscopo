@@ -1,5 +1,8 @@
 package com.copetiny.horoscapp.ui.home
 
+import dagger.hilt.android.AndroidEntryPoint
+
+
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.navigation.NavController
@@ -7,6 +10,8 @@ import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.setupWithNavController
 import com.copetiny.horoscapp.R
 import com.copetiny.horoscapp.databinding.ActivityMainBinding
+
+@AndroidEntryPoint
 
 class MainActivity : AppCompatActivity() {
 
